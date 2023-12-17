@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Increment</string>
+    <string name="btn_to_start_name">Start</string>
+    <string name="btn_to_setting_name">Setting</string>
+    <string name="btn_to_about_name">About</string>
+    <string name="btn_increment">Increment</string>
+    <string name="btn_back_to_main">Back</string>
+    <string name="main_name">Main</string>
+</resources>

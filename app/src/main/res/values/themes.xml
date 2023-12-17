@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Increment" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button.Colored</item>
+    </style>
+
+    <style name="Theme.Increment" parent="Base.Theme.Increment" />
+
+
+    <style name="BackButtons" parent="Theme.AppCompat.Light">
+            <item name="android:background">@color/btn_back_background</item>
+            <item name="android:textColor">@color/white</item>
+        <!--        <item name="colorControlHighlight">@color/myRed</item>-->
+    </style>
+
+    <style name="IncrementButtons" parent="Theme.AppCompat.Light">
+        <item name="android:background">@color/btn_increment_background</item>
+        <item name="android:textColor">@color/black</item>
+        <!--        <item name="colorControlHighlight">@color/myRed</item>-->
+    </style>
+
+    <style name="ActivityNameLabel" parent="Theme.AppCompat.Light">
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:textSize">50sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+    </style>
+
+</resources>

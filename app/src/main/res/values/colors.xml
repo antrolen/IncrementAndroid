@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_in_activity_main">#4CAF50</color>
+    <color name="btn_back_background">#1A237E</color>
+    <color name="btn_back_font">#FFFFFF</color>
+    <color name="btn_increment_background">#FFAB91</color>
+    <color name="font_in_start_activity">#80DEEA</color>
+    <color name="font_in_setting_activity">#C5E1A5</color>
+    <color name="font_in_about_activity">#FFF59D</color>
+</resources>

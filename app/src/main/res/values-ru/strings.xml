@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Increment</string>
+    <string name="btn_to_start_name">Старт</string>
+    <string name="btn_to_setting_name">Настройки</string>
+    <string name="btn_to_about_name">О программе</string>
+    <string name="btn_increment">Увеличить</string>
+    <string name="btn_back_to_main">Назад</string>
+    <string name="main_name">Главное</string>
+</resources>
